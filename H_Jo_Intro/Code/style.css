@@ -1,8 +1,9 @@
   body {
-    margin: 100px; 
+    margin: 300px; 
     background-color: #62733f; 
     color: #e0dab2; 
     font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   title{
     font-family: fantasy;
