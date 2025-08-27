@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(141, 186, 159);
+}
+h1{
+    font-size: xxx-large;
+    font-family: "Mansalva", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    color: rgb(7, 64, 24);
+    letter-spacing: 1px;
+}
+p{
+    font-size: xx-large;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(115, 102, 63);
+    letter-spacing: 3px;
+}
+div{
+    background-color: rgb(167, 202, 180);
+    width: 900px;
+    margin: 0% auto;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(4, 64, 24);
+}
+span{
+    color: rgb(3, 126, 13);
+}
